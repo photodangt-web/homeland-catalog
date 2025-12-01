@@ -5,7 +5,8 @@
 
 Aplicación web responsive para el manejo de datos sobre un catálogo de productos, realizado en Laravel y MySQL junto con HTML, CSS y Javascript
 
-![Demo del Catálogo](https://i.postimg.cc/52S6Yw9Z/ANIMATION-CATAOLOGO-(1).gif)
+![Demo](https://i.postimg.cc/MGs0RkKk/exposicion.gif)
+
 
 ##  Instalación Paso a Paso
 
