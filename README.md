@@ -16,8 +16,7 @@ Abre tu terminal (CMD, PowerShell o Terminal) y ejecuta:
 
 ```bash
 # Clonar el repositorio (Usamos una url de ejemplo)
-git clone https://github.com/tu-usuario/catalogo-homeland.git
-
+git clone https://github.com/photodangt-web/homeland-catalog
 # Entrar a la carpeta del proyecto
 cd catalogo-homeland
 ```
